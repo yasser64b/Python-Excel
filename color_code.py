@@ -1,4 +1,6 @@
-
+# See full Toturial at my Youtube Channel(YB TV): https://www.youtube.com/channel/UCvnhhDKv5takEN412dmVW8g/featured
+# GitHab Page:https://github.com/yasser64b/
+#Email: big3del@gmail.com
 
 # Default Color Index 
 COLOR_INDEX = (
