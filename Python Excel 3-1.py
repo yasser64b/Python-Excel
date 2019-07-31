@@ -1,3 +1,7 @@
+# See full Toturial at my Youtube Channel(YB TV): https://www.youtube.com/channel/UCvnhhDKv5takEN412dmVW8g/featured
+# GitHab Page:https://github.com/yasser64b/
+#Email: big3del@gmail.com
+
 from openpyxl import Workbook
 from openpyxl.chart import BarChart, Reference, Series, LineChart, ScatterChart
 from openpyxl.styles import Font, Color, colors
